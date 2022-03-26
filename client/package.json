@@ -16,7 +16,7 @@
     "styled-components": "^4.4.1",
     "yup": "^0.28.0",
     "acorn": "^7.1.1",
-    "minimist": "^1.2.2"
+    "minimist": "^1.2.6"
   },
   "scripts": {
     "start": "react-scripts start",
